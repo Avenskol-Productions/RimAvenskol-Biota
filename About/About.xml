@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <packageId>AvenskolProductions.RimAvenskolDoratorBestiary</packageId>
+  <packageId>AvenskolProductions.RimAvenskolBestiary</packageId>
   <author>Avenskol Official</author>
 <supportedVersions>
   	<li>1.6</li>
   </supportedVersions>
-  <description>The official Doratorian bestiary mod for RimWorld.</description>
+  <description>The official bestiary mod for RimWorld.</description>
   <forceLoadAfter>
     <li>Ludeon.RimWorld</li>
     <li>Ludeon.RimWorld.Royalty</li>

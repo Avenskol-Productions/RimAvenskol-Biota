@@ -1,2 +1,2 @@
-# RimAvenskol-Doratorian-Bestiary
-The official Avenskol Doratorian bestiary mod for Rimworld.
+# RimAvenskol Bestiary
+The official Avenskol bestiary mod for Rimworld.
